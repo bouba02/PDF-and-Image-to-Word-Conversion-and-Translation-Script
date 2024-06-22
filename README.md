@@ -18,7 +18,9 @@ Assurez-vous d'avoir les éléments suivants installés :
 Installez les bibliothèques Python requises en utilisant pip :
 
  pip install pytesseract Pillow python-docx pdf2image googletrans==4.0.0-rc1
-## ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+## ------------------------------------------------------------------
+
 ## Description
 In this project, we will present a Python script that automates the conversion of PDF files and images into Word documents, then translates the content from English to French using Tesseract OCR, PDF2Image, and Google Translate.
 
